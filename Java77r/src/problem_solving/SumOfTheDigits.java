@@ -12,7 +12,6 @@ public class SumOfTheDigits {
 		}
 		System.out.println(sum);
 		
-
 	}
 
 }
